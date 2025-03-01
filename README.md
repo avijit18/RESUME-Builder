@@ -6,7 +6,7 @@
 ###### AI Resume Builder is an intelligent web application that generates high-quality, professional resumes instantly. All you need to do is provide some basic details about yourself, and our AI will craft a perfectly formatted resume tailored to your industry.
 
 ### 🔥Key Features
-###### ✅ **AI-Powered Resume Generation**- Just enter your details, and AI will structure and format your resume professionally.
+##### ✅ **AI-Powered Resume Generation**- Just enter your details, and AI will structure and format your resume professionally.
 
 ##### ✅ **Instant Customization**- Modify, add, or remove sections easily before finalizing.
 
